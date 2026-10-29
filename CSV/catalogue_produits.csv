@@ -1,0 +1,181 @@
+id_produit,code_produit,nom_produit,categorie,sous_categorie,marque,prix_catalogue
+1,PRD-0001,Samsung Smartphones #1,Électronique,Smartphones,Samsung,77812.94
+2,PRD-0002,Samsung Smartphones #2,Électronique,Smartphones,Samsung,5926.26
+3,PRD-0003,Samsung Smartphones #3,Électronique,Smartphones,Samsung,35178.43
+4,PRD-0004,Samsung Smartphones #4,Électronique,Smartphones,Samsung,29115.66
+5,PRD-0005,LG Smartphones #5,Électronique,Smartphones,LG,89167.13
+6,PRD-0006,LG Smartphones #6,Électronique,Smartphones,LG,82173.84
+7,PRD-0007,LG Smartphones #7,Électronique,Smartphones,LG,107385.01
+8,PRD-0008,LG Smartphones #8,Électronique,Smartphones,LG,13171.84
+9,PRD-0009,Huawei Smartphones #9,Électronique,Smartphones,Huawei,52364.85
+10,PRD-0010,Huawei Smartphones #10,Électronique,Smartphones,Huawei,6486.27
+11,PRD-0011,Huawei Smartphones #11,Électronique,Smartphones,Huawei,28580.64
+12,PRD-0012,Huawei Smartphones #12,Électronique,Smartphones,Huawei,62126.57
+13,PRD-0013,HP Smartphones #13,Électronique,Smartphones,HP,6104.71
+14,PRD-0014,HP Smartphones #14,Électronique,Smartphones,HP,26264.01
+15,PRD-0015,HP Smartphones #15,Électronique,Smartphones,HP,79036.48
+16,PRD-0016,HP Smartphones #16,Électronique,Smartphones,HP,66758.15
+17,PRD-0017,Lenovo Smartphones #17,Électronique,Smartphones,Lenovo,28791.55
+18,PRD-0018,Lenovo Smartphones #18,Électronique,Smartphones,Lenovo,71944.09
+19,PRD-0019,Lenovo Smartphones #19,Électronique,Smartphones,Lenovo,97703.36
+20,PRD-0020,Lenovo Smartphones #20,Électronique,Smartphones,Lenovo,3760.35
+21,PRD-0021,Samsung Ordinateurs #21,Électronique,Ordinateurs,Samsung,97280.85
+22,PRD-0022,Samsung Ordinateurs #22,Électronique,Ordinateurs,Samsung,84682.31
+23,PRD-0023,Samsung Ordinateurs #23,Électronique,Ordinateurs,Samsung,42809.31
+24,PRD-0024,Samsung Ordinateurs #24,Électronique,Ordinateurs,Samsung,21191.1
+25,PRD-0025,LG Ordinateurs #25,Électronique,Ordinateurs,LG,114993.93
+26,PRD-0026,LG Ordinateurs #26,Électronique,Ordinateurs,LG,42381.56
+27,PRD-0027,LG Ordinateurs #27,Électronique,Ordinateurs,LG,13851.26
+28,PRD-0028,LG Ordinateurs #28,Électronique,Ordinateurs,LG,14315.82
+29,PRD-0029,Huawei Ordinateurs #29,Électronique,Ordinateurs,Huawei,102156.84
+30,PRD-0030,Huawei Ordinateurs #30,Électronique,Ordinateurs,Huawei,73635.95
+31,PRD-0031,Huawei Ordinateurs #31,Électronique,Ordinateurs,Huawei,97434.01
+32,PRD-0032,Huawei Ordinateurs #32,Électronique,Ordinateurs,Huawei,88378.62
+33,PRD-0033,HP Ordinateurs #33,Électronique,Ordinateurs,HP,65738.69
+34,PRD-0034,HP Ordinateurs #34,Électronique,Ordinateurs,HP,116854.54
+35,PRD-0035,HP Ordinateurs #35,Électronique,Ordinateurs,HP,47288.52
+36,PRD-0036,HP Ordinateurs #36,Électronique,Ordinateurs,HP,67588.75
+37,PRD-0037,Lenovo Ordinateurs #37,Électronique,Ordinateurs,Lenovo,100040.35
+38,PRD-0038,Lenovo Ordinateurs #38,Électronique,Ordinateurs,Lenovo,75366.81
+39,PRD-0039,Lenovo Ordinateurs #39,Électronique,Ordinateurs,Lenovo,103819.71
+40,PRD-0040,Lenovo Ordinateurs #40,Électronique,Ordinateurs,Lenovo,70550.2
+41,PRD-0041,Samsung Accessoires #41,Électronique,Accessoires,Samsung,85434.9
+42,PRD-0042,Samsung Accessoires #42,Électronique,Accessoires,Samsung,8361.45
+43,PRD-0043,Samsung Accessoires #43,Électronique,Accessoires,Samsung,29664.1
+44,PRD-0044,Samsung Accessoires #44,Électronique,Accessoires,Samsung,36858.39
+45,PRD-0045,LG Accessoires #45,Électronique,Accessoires,LG,12335.66
+46,PRD-0046,LG Accessoires #46,Électronique,Accessoires,LG,30236.53
+47,PRD-0047,LG Accessoires #47,Électronique,Accessoires,LG,14817.17
+48,PRD-0048,LG Accessoires #48,Électronique,Accessoires,LG,35522.91
+49,PRD-0049,Huawei Accessoires #49,Électronique,Accessoires,Huawei,77375.08
+50,PRD-0050,Huawei Accessoires #50,Électronique,Accessoires,Huawei,45685.36
+51,PRD-0051,Huawei Accessoires #51,Électronique,Accessoires,Huawei,46311.17
+52,PRD-0052,Huawei Accessoires #52,Électronique,Accessoires,Huawei,27512.32
+53,PRD-0053,HP Accessoires #53,Électronique,Accessoires,HP,34236.41
+54,PRD-0054,HP Accessoires #54,Électronique,Accessoires,HP,112588.59
+55,PRD-0055,HP Accessoires #55,Électronique,Accessoires,HP,78820.14
+56,PRD-0056,HP Accessoires #56,Électronique,Accessoires,HP,74268.33
+57,PRD-0057,Lenovo Accessoires #57,Électronique,Accessoires,Lenovo,23023.22
+58,PRD-0058,Lenovo Accessoires #58,Électronique,Accessoires,Lenovo,88307.84
+59,PRD-0059,Lenovo Accessoires #59,Électronique,Accessoires,Lenovo,22118.09
+60,PRD-0060,Lenovo Accessoires #60,Électronique,Accessoires,Lenovo,47396.29
+61,PRD-0061,Ifri Boissons #61,Alimentaire,Boissons,Ifri,1979.57
+62,PRD-0062,Ifri Boissons #62,Alimentaire,Boissons,Ifri,1298.0
+63,PRD-0063,Ifri Boissons #63,Alimentaire,Boissons,Ifri,1136.05
+64,PRD-0064,Ifri Boissons #64,Alimentaire,Boissons,Ifri,1385.0
+65,PRD-0065,Cevital Boissons #65,Alimentaire,Boissons,Cevital,1693.56
+66,PRD-0066,Cevital Boissons #66,Alimentaire,Boissons,Cevital,1563.2
+67,PRD-0067,Cevital Boissons #67,Alimentaire,Boissons,Cevital,496.64
+68,PRD-0068,Cevital Boissons #68,Alimentaire,Boissons,Cevital,112.6
+69,PRD-0069,Hamoud Boualem Boissons #69,Alimentaire,Boissons,Hamoud Boualem,665.13
+70,PRD-0070,Hamoud Boualem Boissons #70,Alimentaire,Boissons,Hamoud Boualem,572.09
+71,PRD-0071,Hamoud Boualem Boissons #71,Alimentaire,Boissons,Hamoud Boualem,461.42
+72,PRD-0072,Hamoud Boualem Boissons #72,Alimentaire,Boissons,Hamoud Boualem,1888.67
+73,PRD-0073,Tchin-Lait Boissons #73,Alimentaire,Boissons,Tchin-Lait,1758.92
+74,PRD-0074,Tchin-Lait Boissons #74,Alimentaire,Boissons,Tchin-Lait,663.62
+75,PRD-0075,Tchin-Lait Boissons #75,Alimentaire,Boissons,Tchin-Lait,1328.11
+76,PRD-0076,Tchin-Lait Boissons #76,Alimentaire,Boissons,Tchin-Lait,821.48
+77,PRD-0077,Soummam Boissons #77,Alimentaire,Boissons,Soummam,1833.37
+78,PRD-0078,Soummam Boissons #78,Alimentaire,Boissons,Soummam,944.76
+79,PRD-0079,Soummam Boissons #79,Alimentaire,Boissons,Soummam,566.52
+80,PRD-0080,Soummam Boissons #80,Alimentaire,Boissons,Soummam,530.92
+81,PRD-0081,Ifri Épicerie #81,Alimentaire,Épicerie,Ifri,1144.67
+82,PRD-0082,Ifri Épicerie #82,Alimentaire,Épicerie,Ifri,562.35
+83,PRD-0083,Ifri Épicerie #83,Alimentaire,Épicerie,Ifri,1189.94
+84,PRD-0084,Ifri Épicerie #84,Alimentaire,Épicerie,Ifri,1800.75
+85,PRD-0085,Cevital Épicerie #85,Alimentaire,Épicerie,Cevital,828.83
+86,PRD-0086,Cevital Épicerie #86,Alimentaire,Épicerie,Cevital,477.68
+87,PRD-0087,Cevital Épicerie #87,Alimentaire,Épicerie,Cevital,1995.2
+88,PRD-0088,Cevital Épicerie #88,Alimentaire,Épicerie,Cevital,1043.58
+89,PRD-0089,Hamoud Boualem Épicerie #89,Alimentaire,Épicerie,Hamoud Boualem,227.27
+90,PRD-0090,Hamoud Boualem Épicerie #90,Alimentaire,Épicerie,Hamoud Boualem,141.88
+91,PRD-0091,Hamoud Boualem Épicerie #91,Alimentaire,Épicerie,Hamoud Boualem,263.82
+92,PRD-0092,Hamoud Boualem Épicerie #92,Alimentaire,Épicerie,Hamoud Boualem,1273.52
+93,PRD-0093,Tchin-Lait Épicerie #93,Alimentaire,Épicerie,Tchin-Lait,1594.55
+94,PRD-0094,Tchin-Lait Épicerie #94,Alimentaire,Épicerie,Tchin-Lait,873.21
+95,PRD-0095,Tchin-Lait Épicerie #95,Alimentaire,Épicerie,Tchin-Lait,173.88
+96,PRD-0096,Tchin-Lait Épicerie #96,Alimentaire,Épicerie,Tchin-Lait,794.16
+97,PRD-0097,Soummam Épicerie #97,Alimentaire,Épicerie,Soummam,1992.44
+98,PRD-0098,Soummam Épicerie #98,Alimentaire,Épicerie,Soummam,1081.77
+99,PRD-0099,Soummam Épicerie #99,Alimentaire,Épicerie,Soummam,1943.6
+100,PRD-0100,Soummam Épicerie #100,Alimentaire,Épicerie,Soummam,1728.52
+101,PRD-0101,Ifri Produits laitiers #101,Alimentaire,Produits laitiers,Ifri,72.39
+102,PRD-0102,Ifri Produits laitiers #102,Alimentaire,Produits laitiers,Ifri,1455.41
+103,PRD-0103,Ifri Produits laitiers #103,Alimentaire,Produits laitiers,Ifri,1379.34
+104,PRD-0104,Ifri Produits laitiers #104,Alimentaire,Produits laitiers,Ifri,1097.09
+105,PRD-0105,Cevital Produits laitiers #105,Alimentaire,Produits laitiers,Cevital,570.31
+106,PRD-0106,Cevital Produits laitiers #106,Alimentaire,Produits laitiers,Cevital,1299.88
+107,PRD-0107,Cevital Produits laitiers #107,Alimentaire,Produits laitiers,Cevital,267.53
+108,PRD-0108,Cevital Produits laitiers #108,Alimentaire,Produits laitiers,Cevital,897.79
+109,PRD-0109,Hamoud Boualem Produits laitiers #109,Alimentaire,Produits laitiers,Hamoud Boualem,934.76
+110,PRD-0110,Hamoud Boualem Produits laitiers #110,Alimentaire,Produits laitiers,Hamoud Boualem,1909.94
+111,PRD-0111,Hamoud Boualem Produits laitiers #111,Alimentaire,Produits laitiers,Hamoud Boualem,1757.91
+112,PRD-0112,Hamoud Boualem Produits laitiers #112,Alimentaire,Produits laitiers,Hamoud Boualem,563.61
+113,PRD-0113,Tchin-Lait Produits laitiers #113,Alimentaire,Produits laitiers,Tchin-Lait,1026.14
+114,PRD-0114,Tchin-Lait Produits laitiers #114,Alimentaire,Produits laitiers,Tchin-Lait,398.37
+115,PRD-0115,Tchin-Lait Produits laitiers #115,Alimentaire,Produits laitiers,Tchin-Lait,1829.62
+116,PRD-0116,Tchin-Lait Produits laitiers #116,Alimentaire,Produits laitiers,Tchin-Lait,1747.51
+117,PRD-0117,Soummam Produits laitiers #117,Alimentaire,Produits laitiers,Soummam,631.97
+118,PRD-0118,Soummam Produits laitiers #118,Alimentaire,Produits laitiers,Soummam,1295.95
+119,PRD-0119,Soummam Produits laitiers #119,Alimentaire,Produits laitiers,Soummam,1237.49
+120,PRD-0120,Soummam Produits laitiers #120,Alimentaire,Produits laitiers,Soummam,348.04
+121,PRD-0121,Maoui Vêtements homme #121,Textile,Vêtements homme,Maoui,11627.65
+122,PRD-0122,Maoui Vêtements homme #122,Textile,Vêtements homme,Maoui,8459.18
+123,PRD-0123,Maoui Vêtements homme #123,Textile,Vêtements homme,Maoui,11856.5
+124,PRD-0124,Maoui Vêtements homme #124,Textile,Vêtements homme,Maoui,8331.02
+125,PRD-0125,El Wiam Vêtements homme #125,Textile,Vêtements homme,El Wiam,808.12
+126,PRD-0126,El Wiam Vêtements homme #126,Textile,Vêtements homme,El Wiam,5403.02
+127,PRD-0127,El Wiam Vêtements homme #127,Textile,Vêtements homme,El Wiam,1076.57
+128,PRD-0128,El Wiam Vêtements homme #128,Textile,Vêtements homme,El Wiam,13993.2
+129,PRD-0129,Nedjma Sport Vêtements homme #129,Textile,Vêtements homme,Nedjma Sport,13277.85
+130,PRD-0130,Nedjma Sport Vêtements homme #130,Textile,Vêtements homme,Nedjma Sport,12609.65
+131,PRD-0131,Nedjma Sport Vêtements homme #131,Textile,Vêtements homme,Nedjma Sport,5166.7
+132,PRD-0132,Nedjma Sport Vêtements homme #132,Textile,Vêtements homme,Nedjma Sport,1622.54
+133,PRD-0133,Adidas DZ Vêtements homme #133,Textile,Vêtements homme,Adidas DZ,13267.74
+134,PRD-0134,Adidas DZ Vêtements homme #134,Textile,Vêtements homme,Adidas DZ,14246.68
+135,PRD-0135,Adidas DZ Vêtements homme #135,Textile,Vêtements homme,Adidas DZ,2016.28
+136,PRD-0136,Adidas DZ Vêtements homme #136,Textile,Vêtements homme,Adidas DZ,7701.06
+137,PRD-0137,Textilis Vêtements homme #137,Textile,Vêtements homme,Textilis,1782.82
+138,PRD-0138,Textilis Vêtements homme #138,Textile,Vêtements homme,Textilis,11600.55
+139,PRD-0139,Textilis Vêtements homme #139,Textile,Vêtements homme,Textilis,11674.85
+140,PRD-0140,Textilis Vêtements homme #140,Textile,Vêtements homme,Textilis,2623.16
+141,PRD-0141,Maoui Vêtements femme #141,Textile,Vêtements femme,Maoui,7549.01
+142,PRD-0142,Maoui Vêtements femme #142,Textile,Vêtements femme,Maoui,8607.21
+143,PRD-0143,Maoui Vêtements femme #143,Textile,Vêtements femme,Maoui,4563.8
+144,PRD-0144,Maoui Vêtements femme #144,Textile,Vêtements femme,Maoui,13188.55
+145,PRD-0145,El Wiam Vêtements femme #145,Textile,Vêtements femme,El Wiam,6808.56
+146,PRD-0146,El Wiam Vêtements femme #146,Textile,Vêtements femme,El Wiam,3807.53
+147,PRD-0147,El Wiam Vêtements femme #147,Textile,Vêtements femme,El Wiam,8458.0
+148,PRD-0148,El Wiam Vêtements femme #148,Textile,Vêtements femme,El Wiam,11165.02
+149,PRD-0149,Nedjma Sport Vêtements femme #149,Textile,Vêtements femme,Nedjma Sport,3656.35
+150,PRD-0150,Nedjma Sport Vêtements femme #150,Textile,Vêtements femme,Nedjma Sport,5226.37
+151,PRD-0151,Nedjma Sport Vêtements femme #151,Textile,Vêtements femme,Nedjma Sport,14931.12
+152,PRD-0152,Nedjma Sport Vêtements femme #152,Textile,Vêtements femme,Nedjma Sport,10028.27
+153,PRD-0153,Adidas DZ Vêtements femme #153,Textile,Vêtements femme,Adidas DZ,7021.02
+154,PRD-0154,Adidas DZ Vêtements femme #154,Textile,Vêtements femme,Adidas DZ,8149.58
+155,PRD-0155,Adidas DZ Vêtements femme #155,Textile,Vêtements femme,Adidas DZ,2518.26
+156,PRD-0156,Adidas DZ Vêtements femme #156,Textile,Vêtements femme,Adidas DZ,3990.7
+157,PRD-0157,Textilis Vêtements femme #157,Textile,Vêtements femme,Textilis,5600.81
+158,PRD-0158,Textilis Vêtements femme #158,Textile,Vêtements femme,Textilis,9153.98
+159,PRD-0159,Textilis Vêtements femme #159,Textile,Vêtements femme,Textilis,4067.63
+160,PRD-0160,Textilis Vêtements femme #160,Textile,Vêtements femme,Textilis,3927.09
+161,PRD-0161,Maoui Articles sport #161,Textile,Articles sport,Maoui,1808.1
+162,PRD-0162,Maoui Articles sport #162,Textile,Articles sport,Maoui,9761.66
+163,PRD-0163,Maoui Articles sport #163,Textile,Articles sport,Maoui,4050.97
+164,PRD-0164,Maoui Articles sport #164,Textile,Articles sport,Maoui,13656.96
+165,PRD-0165,El Wiam Articles sport #165,Textile,Articles sport,El Wiam,13006.82
+166,PRD-0166,El Wiam Articles sport #166,Textile,Articles sport,El Wiam,1806.17
+167,PRD-0167,El Wiam Articles sport #167,Textile,Articles sport,El Wiam,4179.67
+168,PRD-0168,El Wiam Articles sport #168,Textile,Articles sport,El Wiam,10299.48
+169,PRD-0169,Nedjma Sport Articles sport #169,Textile,Articles sport,Nedjma Sport,3842.16
+170,PRD-0170,Nedjma Sport Articles sport #170,Textile,Articles sport,Nedjma Sport,2678.83
+171,PRD-0171,Nedjma Sport Articles sport #171,Textile,Articles sport,Nedjma Sport,14084.3
+172,PRD-0172,Nedjma Sport Articles sport #172,Textile,Articles sport,Nedjma Sport,8908.81
+173,PRD-0173,Adidas DZ Articles sport #173,Textile,Articles sport,Adidas DZ,7511.93
+174,PRD-0174,Adidas DZ Articles sport #174,Textile,Articles sport,Adidas DZ,11941.6
+175,PRD-0175,Adidas DZ Articles sport #175,Textile,Articles sport,Adidas DZ,12266.46
+176,PRD-0176,Adidas DZ Articles sport #176,Textile,Articles sport,Adidas DZ,3503.82
+177,PRD-0177,Textilis Articles sport #177,Textile,Articles sport,Textilis,2176.42
+178,PRD-0178,Textilis Articles sport #178,Textile,Articles sport,Textilis,6920.93
+179,PRD-0179,Textilis Articles sport #179,Textile,Articles sport,Textilis,6814.82
+180,PRD-0180,Textilis Articles sport #180,Textile,Articles sport,Textilis,7431.75

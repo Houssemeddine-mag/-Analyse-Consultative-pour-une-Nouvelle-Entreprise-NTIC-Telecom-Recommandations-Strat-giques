@@ -1,0 +1,39 @@
+2026-04-19 14:13:01,695  [INFO]  ==================================================
+2026-04-19 14:13:01,695  [INFO]    DÉMARRAGE DU PIPELINE ETL
+2026-04-19 14:13:01,696  [INFO]  ==================================================
+2026-04-19 14:13:01,702  [INFO]  Création du schéma en étoile...
+2026-04-19 14:13:01,761  [INFO]  Schéma créé.
+2026-04-19 14:13:01,761  [INFO]  ── EXTRACTION ──────────────────────────────
+2026-04-19 14:13:01,932  [INFO]    ventes_brutes     :  50000 lignes
+2026-04-19 14:13:01,933  [INFO]    catalogue_produits:    180 lignes
+2026-04-19 14:13:01,933  [INFO]    clients           :    500 lignes
+2026-04-19 14:13:01,933  [INFO]    regions           :      5 lignes
+2026-04-19 14:13:01,937  [INFO]  ── TRANSFORMATION ──────────────────────────
+2026-04-19 14:13:01,968  [INFO]    Ventes nettoyées : 50000 → 50000 lignes (0 supprimées)
+2026-04-19 14:13:02,068  [INFO]    DIM_TEMPS    : 731 dates distinctes
+2026-04-19 14:13:02,567  [INFO]    DIM_PRODUIT  : 180 produits
+2026-04-19 14:13:02,570  [INFO]    DIM_CLIENT   : 500 clients
+2026-04-19 14:13:02,571  [INFO]    DIM_REGION   : 5 régions
+2026-04-19 14:13:02,575  [INFO]    Intégrité réf : 50000 → 50000 lignes
+2026-04-19 14:13:02,580  [INFO]    FAIT_VENTES  : 50000 transactions
+2026-04-19 14:13:02,580  [INFO]  ── CHARGEMENT ──────────────────────────────
+2026-04-19 14:13:02,621  [INFO]    DIM_TEMPS        →    731 lignes chargées
+2026-04-19 14:13:02,659  [INFO]    DIM_PRODUIT      →    180 lignes chargées
+2026-04-19 14:13:02,707  [INFO]    DIM_CLIENT       →    500 lignes chargées
+2026-04-19 14:13:02,733  [INFO]    DIM_REGION       →      5 lignes chargées
+2026-04-19 14:13:02,932  [INFO]    FAIT_VENTES      →  50000 lignes chargées
+2026-04-19 14:13:02,933  [INFO]  ── VÉRIFICATION ────────────────────────────
+2026-04-19 14:13:02,944  [INFO]    CA total (DA)               : 10626571846.66
+2026-04-19 14:13:02,962  [INFO]    Marge totale (DA)           : 3626156225.57
+2026-04-19 14:13:02,967  [INFO]    Nb transactions             : 50000
+2026-04-19 14:13:02,967  [INFO]    Nb produits                 : 180
+2026-04-19 14:13:02,968  [INFO]    Nb clients                  : 500
+2026-04-19 14:13:02,968  [INFO]    Dates couvertes             : 2023-01-01 → 2024-12-31
+2026-04-19 14:13:02,969  [INFO]  ── TOP 5 régions par CA ────────────────────
+2026-04-19 14:13:03,038  [INFO]    Oran            : 2,313,492,796.04 DA
+2026-04-19 14:13:03,038  [INFO]    Annaba          : 2,286,502,758.06 DA
+2026-04-19 14:13:03,039  [INFO]    Sétif           : 2,134,191,756.38 DA
+2026-04-19 14:13:03,040  [INFO]    Alger           : 2,037,471,746.62 DA
+2026-04-19 14:13:03,040  [INFO]    Constantine     : 1,854,912,789.56 DA
+2026-04-19 14:13:03,042  [INFO]  Pipeline terminé en 1.35 secondes.
+2026-04-19 14:13:03,043  [INFO]  Base de données : C:\mini-project-bia\datawarehouse.db
